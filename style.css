@@ -29,8 +29,9 @@ th:hover{
 
 }
  */
-
+/* 
  *{
+  
     margin: 0px;
     padding: 0px;
   }
@@ -153,7 +154,98 @@ th:hover{
       width: 22%;
     height: 100px;
 
+  } */
+
+
+
+  td:hover{
+    /* border: 2px dotted black; */
+    transform: scale(1.6);
+    transition: 0s;
   }
+
+  td{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+  }
+.number{
+  line-height: 0;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+.name{
+  line-height: 0;
+  font-size: 18px;
+  font-weight: bold;
+
+
+
+}
+.one{
+  background-color:#94e01a ;
+  color:  #f88d5c;
+  
+}
+.two{
+  background-color: rgba(175, 158, 10, 0.616);
+}
+.three{
+  background-color: #d855f8;
+  color: darkslategray;
+}
+.four{
+  background-color: rgba(4, 5, 1, 0.911);
+  color: white;
+}
+.five{
+  background-color: #e8f0fe;
+  color: #1558d6;
+}
+.six{
+  background-color:#ffe7eb ;
+  color:  #cd1d5e;
+
+  
+}
+.seven{
+  background-color: navajowhite;
+  color: navy;
+  
+}
+.eight{
+  background-color: maroon;
+  color: mediumaquamarine;
+}
+h1{
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
